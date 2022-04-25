@@ -8,4 +8,4 @@ contents.forEach((elem) => {
   title.addEventListener('click', () => {
     descr.classList.toggle('active');
   })
-})
+});
